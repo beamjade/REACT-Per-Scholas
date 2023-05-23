@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SBA 307 - Jenny Nguyen</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<link rel="stylesheet" href="SBA_css.css">
+<body>
+    <h1>Hello, this is a test website</h1>   
+    <p>
+
+      <h2>It is about U-pick cherry farms, since we are in the cherry season!</h2><br>
+    <br>
+
+    Tell me about yourself:<br>
+<br>
+<label for="username">Your Name: 
+    <input type="text" /><br>
+    <br>
+
+<label for="zipcode">Your city or zipcode: </label>
+    <input type="text" name="Enter your city or zipcode"/>
+    <br>
+</label>
+<BR>
+
+<h4><a href="Page 2.html">Search U-pick cherry farms</a></h4>
+
+</p> 
+</body>
+</html>
