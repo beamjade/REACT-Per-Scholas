@@ -1,0 +1,22 @@
+h1 {
+    color: blue;
+    background-color: pink;
+
+}
+h5 {
+
+.container {
+    display:inline-flex;
+}
+.boxes {
+    border: .2px solid;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    font-size: 40px;
+}
+#box1 {background-color: pink;}
+#box2 {background-color: yellow;}
+#box3 {background-color: green;}
+#box4 {background-color: blue;}
+#box5 {background-color: red;}

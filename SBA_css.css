@@ -1,0 +1,35 @@
+h1 {
+    background-color: lightgrey;
+    color: blue;
+
+}
+h2 {
+    color: purple
+    width: 100px;
+
+  background-color: beige;
+  animation-name: example;
+  animation-duration: 4s;
+}
+body {color: green;
+    background-color: white;
+}
+@keyframes example {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
+h4 {
+    color: green;
+    width:50;
+  animation-name: h4;
+  animation-duration: 4s;
+}
+
+@keyframes h4 {
+  from {background-color: yellow;}
+  to {background-color: pink;}
+}
+p {
+    color: green;
+    background-color: orange;
+}
